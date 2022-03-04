@@ -108,13 +108,13 @@ atm.getMoney();
 //  action 3:    the atm opens drawer
 atm.openDrawer();
 //  8)
-//  Noun:        drill
-//  action 1:    the drill moves clockwise
-drill.moveClockwise();
-//  action 2:    the drill moves counter clockwise
-drill.moveCounterClockwise();
-//  action 3:    the drill shows battery status
-drill.showBatteryStatus();
+//  Noun:        mobile oven
+//  action 1:    the oven heats up 
+mobileOven.heatUp();
+//  action 2:    the oven starts cooling
+mobileOven.startCooling();
+//  action 3:    the oven turns light on
+mobileOven.lightOn();
 //  9)
 //  Noun:        alarm monitor
 //  action 1:    the alarm monitor triggers alarm
